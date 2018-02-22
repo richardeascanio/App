@@ -28,10 +28,13 @@
     "debug": "node debug app.js",
     "start": "node app.js"
   },
+  "engines": {
+    "node": "8.9.4"
+  },
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anonymous node/sails user/MetroPavoApp.git"
+    "url": "git.heroku.com/pure-springs-26464.git"
   },
   "author": "anonymous node/sails user",
   "license": ""
