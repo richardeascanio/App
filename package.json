@@ -21,6 +21,7 @@
     "include-all": "^1.0.0",
     "rc": "1.0.1",
     "sails": "~0.12.14",
+    "sails-deploy-heroku": "0.0.0",
     "sails-disk": "~0.10.9",
     "sails-mysql": "^0.11.5"
   },
@@ -30,7 +31,7 @@
   },
   "engines": {
     "node": "8.9.4",
-    "npm":"5.6.0"
+    "npm": "5.6.0"
   },
   "main": "app.js",
   "repository": {
