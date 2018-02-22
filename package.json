@@ -27,7 +27,7 @@
   },
   "scripts": {
     "debug": "node debug app.js",
-    "start": "node app.js"
+    "start": "sails lift"
   },
   "engines": {
     "node": "8.9.4",
@@ -36,7 +36,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git.heroku.com/metropavoapp.git"
+    "url": "git://github.com/richardeascanio/App.git"
   },
   "author": "Richard Ascanio <rascanio97@gmail.com>",
   "license": ""
